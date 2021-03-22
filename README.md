@@ -1,1 +1,2 @@
-# predicting-oil-prices
+# 데이터 분석 프로세스와 리더의 역할
+
